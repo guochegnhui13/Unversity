@@ -10,5 +10,5 @@
 
 ## CS Internet
 
-* [OSI七层模型 五层模型](cs-internet/osi-qi-ceng-mo-xing-wu-ceng-mo-xing.md)
+* [OSI—seven layer model & five layer model](cs-internet/osi-qi-ceng-mo-xing-wu-ceng-mo-xing.md)
 
